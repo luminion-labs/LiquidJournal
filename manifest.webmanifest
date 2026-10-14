@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "LiquidJournal — Your private space",
+  "short_name": "LiquidJournal",
+  "description": "A calm, beautifully crafted space for your thoughts.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e9edf2",
+  "theme_color": "#e9edf2",
+  "categories": ["lifestyle", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
